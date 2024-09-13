@@ -16,6 +16,6 @@ The project implements a 4-bit binary multiplier that computes the product of tw
 - **Adder-based design**: Uses half adders and full adders to sum partial products.
 - **Testbench**: Includes a testbench to simulate the functionality of the multiplier.
 
-## File Structure
+
 
 
